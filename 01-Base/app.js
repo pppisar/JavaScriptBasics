@@ -105,9 +105,3 @@ $button.onclick = function () {
 //         if op == '+':         else:
 //    return op == '+' ? num1 + num2 : num1 - num2
 // }
-// 
-
-
-
-
-
