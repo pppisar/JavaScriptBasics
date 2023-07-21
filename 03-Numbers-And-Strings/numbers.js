@@ -1,6 +1,8 @@
 // ------------------------------------
 // Numbers
 
+console.log('-=-=-=-=-=-=-=-=Numbers=-=-=-=-=-=-=-=-')
+
 const intNum = 42 // integer(number)
 const floatNum = 42.42 // float(number)
 const powNum = 10e3 // 10**3
